@@ -1,0 +1,4 @@
+--graph umls --type directed
+load_csv_vertices --graph umls --csvfile [file_location]/concepts.txt --noheader --separator "|" --labelpos 0 --keypos 1 --proppos 2:Label 3:Definition
+load_csv_edges --graph umls --csvfile  [file_location]/relationships.txt --noheader --separator "|" --labelpos 0 --targpos 1 --srcpos 2 --proppos 3:Rel 4:Rela
+close_all

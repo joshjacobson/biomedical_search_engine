@@ -9,7 +9,7 @@ This search engine employs several big data concepts to make the Unified Medical
   4. [PHP](http://php.net/downloads.php).
   5. [IBM System G](http://systemg.research.ibm.com/download.html).
   5. [Python](https://www.python.org/downloads/).
-  6. Python Packages: [igraph](http://igraph.org/python/),[json](https://docs.python.org/2/library/json.html), [netwrokx](https://networkx.github.io) and [plotly](https://plot.ly/python/).
+  6. Python Packages: [python-igraph](http://igraph.org/python/), [json](https://docs.python.org/2/library/json.html), and [plotly](https://plot.ly/python/).
 
 ## Steps to deploy the system.
   1. Sign up for license at the [UMLS Terminology Services](https://uts.nlm.nih.gov//license.html).

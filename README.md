@@ -23,6 +23,8 @@ This search engine employs several big data concepts to make the Unified Medical
   9. Copy the content of the of the PHP, JAVA and PYTHON to the sudirectory of the root directory of your web server where you want the system to be access.
   10. Go to this subdirectory in your browsers and add at the end of it "/lookup.php" and you should be able to start using the our system.
   
-Note: Please make sure that apache have read and write privileges to the location were you installed system G. If you encounter any other problems and can't figure it a solution, please feel free to contact me at jaa2220@cumc.columbia.edu I'll be happy to assists you.
+Note: Please make sure that apache have read and write privileges to the location were you installed system G. If you encounter any other problems and can't figure it a solution, please feel free to contact me at jaa2220@cumc.columbia.edu I'll be happy to assist you.
+
+Project by Jose Alvarado-Guzman (jaa2220), Josh Jacobson (jj2807), and Mohammad Zaryab (mz2517).
   
   

@@ -8,7 +8,7 @@ This search engine employs several big data concepts to make the Unified Medical
   3. [Java JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html).
   4. [PHP](http://php.net/downloads.php).
   5. [IBM System G](http://systemg.research.ibm.com/download.html).
-  5. [Python 2.7](https://www.python.org/download/releases/2.7/).
+  5. [Python](https://www.python.org/downloads/).
   6. Python Packages: [igraph](http://igraph.org/python/),[json](https://docs.python.org/2/library/json.html), [netwrokx](https://networkx.github.io) and [plotly](https://plot.ly/python/).
 
 ## Steps to deploy the system.

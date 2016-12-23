@@ -22,7 +22,8 @@ This search engine employs several big data concepts to make the Unified Medical
   8. Create an account in [plot.ly](https://plot.ly) and modify the file contained on the PYTHON directory to enter the username and key of your account on the following line py.sign_in('user', 'key').
   9. Copy the content of the of the PHP, JAVA and PYTHON to the sudirectory of the root directory of your web server where you want the system to be access.
   10. Go to this subdirectory in your browsers and add at the end of it "/lookup.php" and you should be able to start using the our system.
-  11. The behavior of the classifier can be change by modifying the file on the JAVA/src directory but in order to do this you will need to clone the Hadoop and Mahout repositories. 
+  11. The behavior of the classifier can be change by modifying the file on the JAVA/src directory but in order to do this you will need to clone the Hadoop and Mahout repositories.
+ 
 Note: Please make sure that apache have read and write privileges to the location were you installed system G. If you encounter any other problems and can't figure it a solution, please feel free to contact jaa2220@cumc.columbia.edu to assist you with MySQL, SystemG and Classifier, jj2807@columbia.edu for visualization or mz2517@columbia.edu for PHP related issues.
 
 Project by Jose Alvarado-Guzman (jaa2220), Josh Jacobson (jj2807), and Mohammad Zaryab (mz2517).

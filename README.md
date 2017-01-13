@@ -26,6 +26,6 @@ This search engine employs several big data concepts to make the Unified Medical
  
 Note: Please make sure that apache have read and write privileges to the location were you installed System G.
 
-Project by Jose Alvarado-Guzman (jaa2220), Josh Jacobson (jj2807), and Mohammad Zaryab (mz2517).
+Project by Josh Jacobson, Jose Alvarado-Guzman, and Mohammad Zaryab.
   
   
